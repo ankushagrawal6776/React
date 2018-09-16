@@ -1,0 +1,20 @@
+-----------------------------Description of Create-react-app hello------------------------------------------------------------------------------https://www.codecademy.com/articles/how-to-create-a-react-app
+
+
+
+---------------------------Learn React App-------
+https://medium.freecodecamp.org/learning-react-roadmap-from-scratch-to-advanced-bff7735531b6
+
+--------------------------ES6 Feature
+https://hackernoon.com/es6-for-beginners-f98120b57414
+Let and Const
+Arrow functions
+Default parameters
+for of loop
+Spread attributes
+Maps
+Sets
+Static methods
+Getters and Setters
+
+
