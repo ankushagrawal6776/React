@@ -1,0 +1,38 @@
+Reactjs is a Component-based JavaScript library built by Facebook.
+Open-sourced by Facebook in 2013,Corporate adopters:- Netflix, Yahoo!, Github, and Codecademy.
+-Performance
+-Flexibility
+-Declarative, component-based approach to UI
+
+NodeJS
+Nodejs is a server-side framework based on JavaScript.Unlike PHP or ASP, there is no separation between the web server and code.With Node, we can create the web server, customize it, and deliver content
+
+Environment Setup:-
+-Server setup
+-Client setup
+the frontend will be built using React and Redux and the backend, Expressjs and Nodejs. So, we will build our backend in the Server setup section and frontend in the Client setup section.
+
+ let’s begin with our server.
+We are going to use create-react-app.create-react-app will install both react and react-dom libraries for us.
+
+
+-----------------------------------------------------Important-------------------------------------------------------------------------------
+npm install create-react-app -g      (-g globally)
+/home/ankit/.nvm/versions/node/v8.11.3/lib/node_modules/create-react-app
+
+create-react-app hello-world
+
+cd hello-world
+
+-npm start
+starts the development server.
+
+-npm run build
+Bundles the app into static files for production.
+
+-npm test
+Starts the test runner.
+
+-npm run eject
+It takes your app out of the create-react-app setup, which lets you customize your project configuration.
+------------------------------------------------------------------------------------------------------------------------------------------------
